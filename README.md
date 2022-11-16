@@ -1,5 +1,5 @@
 ### 11. 같은 페이지내 이동
-[1 목록이름](https://github.com/hykim-king/README_MD_EDU/edit/main/README.md?#1)
+[read_me_md](#-read_me_md)
 * 2 목록이름  
 + 3 목록이름 
 
