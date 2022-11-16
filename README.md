@@ -1,5 +1,5 @@
 ### 11. 같은 페이지내 이동
-[read_me_md](#read_me_md)
+[read_me_md](#-read_me_md)
 * 2 목록이름  
 + 3 목록이름 
 
@@ -74,7 +74,7 @@
 (space 2개: 개행)  
 가는 가을을 만끽 하세요. 
 
-#README_MD_EDU
+# README_MD_EDU
 README_MD_EDU
 
 
