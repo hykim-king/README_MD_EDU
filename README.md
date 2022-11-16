@@ -1,6 +1,21 @@
+### 10.표  
+|Header|Value|Description|
+|:-------:|:-------|-------:|
+|1|자바|웹 최강 언어|
+|1|자바|웹 최강 언어|
+|1|자바|웹 최강 언어|
+|1|자바|웹 최강 언어|
+|1|자바|웹 최강 언어|
+
+### 9. 글자 강자(Emphasis)
+**굵은글씨**  
+*이탤릭*  
+~~취소선~~  
+
+
 ### 8. 이미지 넣기
 
-
+![가을](https://github.com/hykim-king/README_MD_EDU/blob/main/doc/imgs/hong.jpg "연트랄 파크")
 ### 7. 하이퍼 링크
 [PCWK CAFE](https://cafe.daum.net/pcwk "설명문구")
 
