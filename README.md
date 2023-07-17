@@ -6,7 +6,7 @@ $x^2 + y^2 = z^2$
 
 
 ### 11. 같은 페이지내 이동
-[1.문단 구분을 위한 개행](#1문단-구분을-위한-개행)  
+[1.문단 구분을 위한 개행](# selection1)  
 [4-코드블럭](#4-코드블럭)  
 
 
@@ -60,6 +60,7 @@ $x^2 + y^2 = z^2$
 2.2. 하위 하위
 
 ### 4. 코드블럭
+#4-코드블럭
 ```JAVA
    public class Hello{
     public static void main(String []args){
@@ -86,7 +87,7 @@ $x^2 + y^2 = z^2$
 (space 2개: 개행)  
 가는 가을을 만끽 하세요. 
 
-# README_MD_EDU
+# README_MD_EDU 
 README_MD_EDU
 
 
